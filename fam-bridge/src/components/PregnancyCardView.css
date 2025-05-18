@@ -1,0 +1,42 @@
+.view-container {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .view-container h1 {
+    text-align: center;
+    color: #B3817A;
+    margin-bottom: 25px;
+    font-size: 2rem;
+  }
+  
+  .data-section {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .data-section p {
+    font-size: 1rem;
+    line-height: 1.6;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 8px;
+    margin: 0;
+  }
+  
+  .data-section strong {
+    color: #444;
+    font-weight: 600;
+  }
+  
+  .error {
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
