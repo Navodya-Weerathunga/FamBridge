@@ -1,0 +1,87 @@
+
+.ha2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.ha5{ 
+    font-size: 50px;
+    color: #B3817A;
+    padding: 5 px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.container{
+    text-align: center;
+    font-size: larger;
+    font-weight: lighter;
+}
+
+.ha6{
+    font-size: 30px;
+    margin-left: 800px;
+    color: rgb(63,90,97);
+}
+
+
+  .team-item img {
+    position: relative;
+    top: 0;
+    transition: .5s;
+}
+
+.team-item:hover img {
+    top: -30px;
+}
+
+.team-item .team-text {
+    position: relative;
+    height: 50px;
+    transition: .5s;
+}
+
+.team-item:hover .team-text {
+    margin-top: -60px;
+    height: 160px;
+}
+
+.team-item .team-text .team-social {
+    opacity: 0;
+    transition: .5s;
+}
+
+.team-item:hover .team-text .team-social {
+    opacity: 1;
+}
+
+.team-item .team-social .btn {
+    display: inline-flex;
+    color: var(--primary);
+    background: #FFFFFF;
+    border-radius: 40px;
+}
+
+.team-item .team-social .btn:hover {
+    color: #FFFFFF;
+    background: var(--primary);
+}
+.img-fluid1, .img-fluid2,.img-fluid3, .img-fluid4 {
+    height: 40%;
+    min-height: 350px;
+    width: 103%; 
+    border-radius: 10px; 
+    margin-right: 50% 
+}
+/* .img-fluid1{
+    background: url('../../../Component/Pictures/d2.jpg') no-repeat center; 
+}
+.img-fluid2{
+    background: url('../../../Component/Pictures/d3.jpg') no-repeat center; 
+}
+.img-fluid3{
+    background: url('../../../Component/Pictures/d4.jpg') no-repeat center; 
+}
+.img-fluid4{
+    background: url('../../../Component/Pictures/d1.jpg') no-repeat center; 
+} */

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32e1bb70-3f5f-4536-9817-cfa1f5e47766" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/config/MailConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/controller/MarriedCoupleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/controller/MarriedCoupleRequestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/controller/MidwifeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/controller/PregnantWomenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/controller/PregnantWomenRequestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/dto/MarriedCoupleDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/dto/MarriedCoupleRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/dto/MidwifeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/dto/PregnantWomenDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/dto/PregnantWomenRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/entity/MarriedCouple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/entity/MarriedCoupleRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/entity/Midwife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/entity/PregnantWomen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/entity/PregnantWomenRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/repository/MarriedCoupleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/repository/MarriedCoupleRequestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/repository/MidwifeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/repository/PregnantWomenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/repository/PregnantWomenRequestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/service/MarriedCoupleRequestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/service/MarriedCoupleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/service/MidwifeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/service/PregnantWomenRequestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/service/PregnantWomenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/serviceImpl/MarriedCoupleRequestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/serviceImpl/MarriedCoupleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/serviceImpl/MidwifeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/serviceImpl/PregnantWomenRequestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/serviceImpl/PregnantWomenServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/famBridge/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/famBridge/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/FamBridgeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/famBridge/src/main/java/com/edu/famBridge/FamBridgeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/famBridge/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/famBridge/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2v99elNqXjjASRAfKmeKwVK48O4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/FamBridge/Backend&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32e1bb70-3f5f-4536-9817-cfa1f5e47766" name="Changes" comment="" />
+      <created>1743546519560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743546519560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WfRunsListSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "branch": "master",
+      "currentBranchFilter": true
+    },
+    {
+      "branch": "master",
+      "currentBranchFilter": true
+    },
+    {
+      "branch": "master",
+      "currentBranchFilter": true
+    }
+  ],
+  "lastFilter": {
+    "branch": "master",
+    "currentBranchFilter": true
+  }
+}]]></component>
+</project>

@@ -1,0 +1,124 @@
+.Boxa4{  
+    display: flex;     
+    background:url('/public/Homeimage.jpg'); 
+    height: 550px;
+    box-sizing: border-box;
+    color: rgb(63,90,97);;
+    background-size: cover;
+    flex: none;
+    object-fit: contain;
+}
+.ha1{
+    font-size: 70px;
+    font-weight: bold;
+    margin-left: 800px;
+    margin-top: 12%;
+    animation-delay: 1s;
+    
+}
+.ha2{
+    text-align: center;
+    font-size: 50px;
+}
+.ha5{ 
+    font-size: 80px;
+    color: rgb(63,90,97);
+    padding: 5 px;
+    text-align: center;
+}
+.ha3{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(63,90,97);
+}
+
+.cleintbt{
+    background-color:rgb(114,156,167);
+    color: white;
+    font-weight: 600;
+    height:50px;
+    margin-bottom:2%;
+    font-size:larger;
+    margin-left: 47%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+
+.ha6{
+    font-size: 30px;
+    margin-left: 800px;
+    color: rgb(63,90,97);
+}
+
+/* .image-container {
+    background: url('') no-repeat center;
+    
+    height: 40%;
+    min-height: 500px; 
+    width: 100%; 
+    border-radius: 10px; 
+    margin-right: 20%    
+  } */
+
+
+  .team-item img {
+    position: relative;
+    top: 0;
+    transition: .5s;
+}
+
+.team-item:hover img {
+    top: -30px;
+}
+
+.team-item .team-text {
+    position: relative;
+    height: 50px;
+    transition: .5s;
+}
+
+.team-item:hover .team-text {
+    margin-top: -60px;
+    height: 160px;
+}
+
+.team-item .team-text .team-social {
+    opacity: 0;
+    transition: .5s;
+}
+
+.team-item:hover .team-text .team-social {
+    opacity: 1;
+}
+
+.team-item .team-social .btn {
+    display: inline-flex;
+    color: var(--primary);
+    background: #FFFFFF;
+    border-radius: 40px;
+}
+
+.team-item .team-social .btn:hover {
+    color: #FFFFFF;
+    background: var(--primary);
+}
+.img-fluid1, .img-fluid2,.img-fluid3, .img-fluid4 {
+    height: 40%;
+    min-height: 350px;
+    width: 103%; 
+    border-radius: 10px; 
+    margin-right: 50% 
+}
+/* .img-fluid1{
+    background: url('../../../Component/Pictures/d2.jpg') no-repeat center; 
+}
+.img-fluid2{
+    background: url('../../../Component/Pictures/d3.jpg') no-repeat center; 
+}
+.img-fluid3{
+    background: url('../../../Component/Pictures/d4.jpg') no-repeat center; 
+}
+.img-fluid4{
+    background: url('../../../Component/Pictures/d1.jpg') no-repeat center; 
+} */
